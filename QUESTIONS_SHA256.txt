@@ -1,0 +1,2 @@
+SHA-256 data/questions.json: 90ce08358bf3c176815f53ed1e45495ccd8cb1391cd108b4d0d88215471fae9e
+Recompute after intentional question edits (python -m calibrate validate --write-hash); never compare runs across different hashes without noting the change.
